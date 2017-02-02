@@ -2,7 +2,7 @@ class Random
 
 	attr_reader :PI
 
-	PI = 'hello'
+	PI = 'hello guys'
 
 end
 
